@@ -43,7 +43,7 @@ inquirer.prompt([
         type: "list",
         name: "option",
         message: "Hi! My name is LIRI. Please select the following categories:",
-        choices: ["TWEETER", "MUSIC", "MOVIES", "RANDOM COMPUTER SELECTION"]
+        choices: ["TWITTER", "MUSIC", "MOVIES", "RANDOM COMPUTER SELECTION"]
     },
 
 
@@ -58,8 +58,8 @@ inquirer.prompt([
 });
 
 function selectCategory(user){
-    if (user.option === "TWEETER") {
-        fs.appendFile("log.txt", time + " USER: " + user.name + " | CATEGORY: TWEETER \n", function (err) {
+    if (user.option === "TWITTER") {
+        fs.appendFile("log.txt", time + " USER: " + user.name + " | CATEGORY: TWITTER \n", function (err) {
             if (err) {
                 return console.log(err);
             }
