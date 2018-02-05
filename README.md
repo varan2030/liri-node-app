@@ -47,6 +47,7 @@ client.get('search/tweets', { q: 'yourTwitterUsername', count: 20 }, function (e
 The syntax to run the program is:
 ```
 liri
+
 ```
 
 Available categories:
@@ -64,6 +65,8 @@ Enter your name to run LIRI:
 ```
 ? What is your name???...
 
+```
+
 Running the following commands in your terminal will do the following:
 
 ```
@@ -76,7 +79,6 @@ Running the following commands in your terminal will do the following:
 ```
 * TWEETER will log your last 20 tweets
 
-```
 MUSIC category will ask:
 
 ```
@@ -95,7 +97,6 @@ What is your favorite song, USER_NAME?
 
 * if no song is provided then the program will output information for the song 'The Sign' by Ace of Base by default
 
-```
 MOVIE category will ask:
 
 ```
