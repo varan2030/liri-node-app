@@ -1,0 +1,30 @@
+Sat Feb 03 2018 21:53:14 GMT-0500 (Eastern Standard Time) USER: Stive | CATEGORY: Random | COMPUTER SELECTED CATEGORY: tweeter | TITLE: 
+Sat Feb 03 2018 21:53:59 GMT-0500 (Eastern Standard Time) USER: Mike | CATEGORY: Random | COMPUTER SELECTED CATEGORY: tweeter | TITLE: 
+Sat Feb 03 2018 21:54:12 GMT-0500 (Eastern Standard Time) USER: Nick | CATEGORY: Random | COMPUTER SELECTED CATEGORY: tweeter | TITLE: 
+Sat Feb 03 2018 21:54:23 GMT-0500 (Eastern Standard Time) USER: Henry | CATEGORY: Random | COMPUTER SELECTED CATEGORY: music | TITLE: I Want it That Way
+Sat Feb 03 2018 22:02:01 GMT-0500 (Eastern Standard Time) USER: Luis | CATEGORY: Random | COMPUTER SELECTED CATEGORY: tweeter | TITLE: 
+Sat Feb 03 2018 22:03:55 GMT-0500 (Eastern Standard Time) USER: Trump | CATEGORY: TWEETER 
+Sat Feb 03 2018 22:04:38 GMT-0500 (Eastern Standard Time) USER: Donald | CATEGORY: TWEETER 
+Sat Feb 03 2018 22:05:20 GMT-0500 (Eastern Standard Time) USER: Bush | CATEGORY: TWEETER 
+Sat Feb 03 2018 22:05:57 GMT-0500 (Eastern Standard Time) USER: Barack | CATEGORY: TWEETER 
+Sat Feb 03 2018 22:11:02 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Movies | TITLE: Batman
+Mon Feb 05 2018 10:42:27 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Movies | TITLE: die hard
+Mon Feb 05 2018 10:43:04 GMT-0500 (Eastern Standard Time) USER: Henry| CATEGORY: Music | TITLE: lady in red
+Mon Feb 05 2018 10:43:58 GMT-0500 (Eastern Standard Time) USER: Gabe | CATEGORY: TWEETER 
+Mon Feb 05 2018 10:44:28 GMT-0500 (Eastern Standard Time) USER: Chris | CATEGORY: Random | COMPUTER SELECTED CATEGORY: music | TITLE: I Want it That Way
+Mon Feb 05 2018 10:45:39 GMT-0500 (Eastern Standard Time) USER: Frank | CATEGORY: Random | COMPUTER SELECTED CATEGORY: tweeter | TITLE: 
+Mon Feb 05 2018 10:45:59 GMT-0500 (Eastern Standard Time) USER: Valentin | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Movie | TITLE: Green mile
+Mon Feb 05 2018 11:08:32 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:23:20 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:23:53 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:24:34 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:25:11 GMT-0500 (Eastern Standard Time) USER: Almaz' | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:25:40 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:26:45 GMT-0500 (Eastern Standard Time) USER: SA | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:27:48 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:28:57 GMT-0500 (Eastern Standard Time) USER: David | CATEGORY: TWEETER 
+Mon Feb 05 2018 12:29:32 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 13:12:03 GMT-0500 (Eastern Standard Time) USER:  | CATEGORY: TWEETER 
+Mon Feb 05 2018 13:12:31 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 13:13:02 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
+Mon Feb 05 2018 13:24:56 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
