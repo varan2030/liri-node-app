@@ -39,3 +39,21 @@ Mon Feb 05 2018 15:13:52 GMT-0500 (Eastern Standard Time) USER: peter| CATEGORY:
 Mon Feb 05 2018 15:14:37 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWEETER 
 Mon Feb 05 2018 15:30:15 GMT-0500 (Eastern Standard Time) USER: Stive | CATEGORY: TWITTER 
 Mon Feb 05 2018 15:30:38 GMT-0500 (Eastern Standard Time) USER: John| CATEGORY: Music | TITLE: Arny
+Mon Feb 05 2018 18:12:47 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Music | TITLE: I Want it That Way
+Mon Feb 05 2018 18:15:51 GMT-0500 (Eastern Standard Time) USER: Nurlan | CATEGORY: TWITTER 
+Mon Feb 05 2018 18:30:43 GMT-0500 (Eastern Standard Time) USER: undefined| CATEGORY: Movies | TITLE: 
+Mon Feb 05 2018 18:31:52 GMT-0500 (Eastern Standard Time) USER: undefined | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Tweeter | TITLE: 
+Mon Feb 05 2018 18:32:14 GMT-0500 (Eastern Standard Time) USER: undefined | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Tweeter | TITLE: 
+Mon Feb 05 2018 18:32:30 GMT-0500 (Eastern Standard Time) USER: undefined | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Movie | TITLE: The Green mile
+Mon Feb 05 2018 21:37:54 GMT-0500 (Eastern Standard Time) USER: undefined | CATEGORY: Random | COMPUTER SELECTED CATEGORY: Movie | TITLE: The Green mile
+Mon Feb 05 2018 22:40:14 GMT-0500 (Eastern Standard Time) USER: undefined| CATEGORY: Movies | TITLE: 
+Mon Feb 05 2018 22:41:46 GMT-0500 (Eastern Standard Time) USER: undefined| CATEGORY: Movies | TITLE: 
+Mon Feb 05 2018 22:42:23 GMT-0500 (Eastern Standard Time) USER: undefined| CATEGORY: Movies | TITLE: 
+Mon Feb 05 2018 22:50:50 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Music | TITLE: The Sign Ace of Base
+Mon Feb 05 2018 22:51:03 GMT-0500 (Eastern Standard Time) USER: Almaz | CATEGORY: TWITTER 
+Mon Feb 05 2018 22:51:12 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Movies | TITLE: Die hARD
+Mon Feb 05 2018 22:36:25 GMT-0500 (Eastern Standard Time) USER: undefined| CATEGORY: Movies | TITLE: 
+Tue Feb 06 2018 21:56:17 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Music | TITLE: Yeah
+Tue Feb 06 2018 21:57:30 GMT-0500 (Eastern Standard Time) USER: Nick | CATEGORY: TWITTER 
+Wed Feb 07 2018 07:58:41 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Movies | TITLE: Kill Bill
+Wed Feb 07 2018 07:59:45 GMT-0500 (Eastern Standard Time) USER: Almaz| CATEGORY: Movies | TITLE: Kill Bill
