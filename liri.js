@@ -218,7 +218,7 @@ function randomSelect() {
             showMyMovies(title);
         }
 
-        fs.appendFile("log.txt", time + " USER: " + user +
+        fs.appendFile("log.txt", time + " USER: " + userName +
             " | CATEGORY: Random | COMPUTER SELECTED CATEGORY: " + category + " | TITLE: " + title + "\n", function (err) {
 
                 if (err) {
